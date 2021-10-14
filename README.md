@@ -1,1 +1,1 @@
-# actividad6
+# Verificador de Precios. C# 
